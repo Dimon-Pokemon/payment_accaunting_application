@@ -1,0 +1,2 @@
+main-class: paymentAccountingApplication.main
+class-path: /Users/dima/Documents/projects/Java/приложение учета платежей/paymentAccountingApplication/src/paymentAccountingApplication/main.java
